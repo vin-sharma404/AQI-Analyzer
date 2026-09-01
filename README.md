@@ -58,7 +58,7 @@ AI-Assisted-AQI-Analyzer/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Assisted-AQI-Analyzer.git
+git clone https://github.com/vin-sharma404/AI-Assisted-AQI-Analyzer.git
 ```
 
 Go inside the project
